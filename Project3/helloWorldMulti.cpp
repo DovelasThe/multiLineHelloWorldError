@@ -12,5 +12,5 @@
 			string helloworld = hello + ", " + world;
 			cout << helloworld + to_string(i) << endl;
 		}
-		return 0
+		return 0;
 	}
